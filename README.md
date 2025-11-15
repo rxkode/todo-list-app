@@ -1,4 +1,4 @@
-# To-Do List Application live- https://rkangata.github.io/todo-list-app/
+# To-Do List Application live- https://rxkode.github.io/todo-list-app/
 
 A simple and functional to-do list app built with HTML, CSS, and JavaScript.
 
